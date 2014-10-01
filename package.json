@@ -1,0 +1,38 @@
+{
+  "name": "generator-threejs-module",
+  "version": "0.0.0",
+  "description": "Yeoman generator for threejs modules",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "bunnybones1/generator-threejs-module",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "",
+    "url": "http://www.bunnybones.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^0.5.0",
+    "lodash": "^2.4.1",
+    "underscore.string": "^2.3.3",
+    "yeoman-generator": "^0.17.0",
+    "yosay": "^0.3.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  }
+}
