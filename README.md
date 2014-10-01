@@ -1,5 +1,4 @@
-]# generator-threejs-module [![Build Status](https://secure.travis-ci.org/bunnybones1/generator-threejs-module.png?branch=master)](https://travis-ci.org/bunnybones1/generator-threejs-module)
-
+# generator-threejs-module
 > [Yeoman](http://yeoman.io) generator
 
 
