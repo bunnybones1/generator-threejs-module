@@ -1,4 +1,4 @@
-# generator-GraphicalMathPixi [![Build Status](https://secure.travis-ci.org/bunnybones1/generator-graphicalmathpixi.png?branch=master)](https://travis-ci.org/bunnybones1/generator-graphicalmathpixi)
+]# generator-threejs-module [![Build Status](https://secure.travis-ci.org/bunnybones1/generator-threejs-module.png?branch=master)](https://travis-ci.org/bunnybones1/generator-threejs-module)
 
 > [Yeoman](http://yeoman.io) generator
 
@@ -23,16 +23,16 @@ npm install -g yo
 
 Yeoman travels light. He didn't pack any generators when he moved in. You can think of a generator like a plug-in. You get to choose what type of application you wish to create, such as a Backbone application or even a Chrome extension.
 
-To install generator-GraphicalMathPixi from npm, run:
+To install generator-threejs-module from npm, run:
 
 ```bash
-npm install -g generator-graphicalmathpixi
+npm install -g bunnybones1/generator-threejs-module
 ```
 
 Finally, initiate the generator:
 
 ```bash
-yo GraphicalMathPixi
+yo threejs-module
 ```
 
 ### Getting To Know Yeoman
